@@ -321,7 +321,7 @@ Thời gian hiện nội dung đầu tiên trên mobile giảm từ 3,0 s xuốn
 
 ### (a) Feedback cho các nhóm khác
 
-*Đại diện Nhóm 5 đánh giá: **Lê Quang Khanh**. Tiêu Chí đánh giá : [`docs/peer-review/`](docs/peer-review/).*
+*Đại diện Nhóm 5 đánh giá: **Lê Quang Khanh**. tiêu chí đánh giá dự án : [`docs/peer-review/`](docs/peer-review/).*
 
 Review ngày 22/11/2026 trên Chrome, máy tính và điện thoại.
  
